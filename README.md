@@ -1,4 +1,4 @@
-# Submission 1: Diabetes Classification Project
+# Submission 2: Diabetes Classification Project
 
 Nama: Evan Arlen Handy
 
